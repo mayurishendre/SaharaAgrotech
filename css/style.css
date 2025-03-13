@@ -112,9 +112,15 @@ h6 a {
 button:focus {
     outline: none;
 }
+
 .nav-item{
     list-style: none !important;
 }
+
+.footer_item{
+    list-style: none !important; 
+}
+
 ul,
 
 li{
