@@ -112,9 +112,18 @@ h6 a {
 button:focus {
     outline: none;
 }
-
+.nav-item{
+    list-style: none !important;
+}
 ul,
-li,
+
+li{
+    margin: 0px;
+    padding: 0px;
+    list-style: disc;
+    font-size: 16px;
+}
+
 ol {
     margin: 0px;
     padding: 0px;
